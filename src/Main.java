@@ -123,7 +123,7 @@ public class Main {
         else if(three>one){
                 System.out.println("Самое большое число "+three);
             }else {
-                System.out.println("все числа равны");
+                System.out.println("все числа равны") ;//проверьте ДЗ
             }
         }
     }
